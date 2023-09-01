@@ -7,6 +7,7 @@
     tools:context=".GifActivity">
     <ImageView
         android:id="@+id/iv_gif"
+        android:scaleType="fitXY"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
 
